@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Full of Life Food]]></title>
   <link href="http://fulloflifefood.com/atom.xml" rel="self"/>
   <link href="http://fulloflifefood.com/"/>
-  <updated>2014-08-02T18:46:01-07:00</updated>
+  <updated>2014-08-02T18:47:40-07:00</updated>
   <id>http://fulloflifefood.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mark Fussell]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
-    <link href="http://fulloflifefood.com/blog/2014/08/02/site-launch/"/>
+    <link href="http://fulloflifefood.com/blog/site-launch/"/>
     <updated>2014-08-02T18:17:00-07:00</updated>
-    <id>http://fulloflifefood.com/blog/2014/08/02/site-launch</id>
+    <id>http://fulloflifefood.com/blog/site-launch</id>
     <content type="html"><![CDATA[<p>Full Of Life Food is a cooperative purchasing group that enables farmers and ranchers
 to produce and distribute their amazing foods without the burden of dealing with individualized delivery and sales.</p>
 
