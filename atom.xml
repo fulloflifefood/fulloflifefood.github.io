@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://fulloflifefood.com/atom.xml" rel="self"/>
   <link href="http://fulloflifefood.com/"/>
-  <updated>2014-08-02T17:03:38-07:00</updated>
+  <updated>2014-08-02T18:46:01-07:00</updated>
   <id>http://fulloflifefood.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Site Launch!]]></title>
+    <link href="http://fulloflifefood.com/blog/2014/08/02/site-launch/"/>
+    <updated>2014-08-02T18:17:00-07:00</updated>
+    <id>http://fulloflifefood.com/blog/2014/08/02/site-launch</id>
+    <content type="html"><![CDATA[<p>Full Of Life Food is a cooperative purchasing group that enables farmers and ranchers
+to produce and distribute their amazing foods without the burden of dealing with individualized delivery and sales.</p>
+
+<p>The founder and his family has been purchasing food from the Mountain View Farmers Market (<a href="https://www.facebook.com/MVFarmersMkt">https://www.facebook.com/MVFarmersMkt</a>)  for twenty years.
+Sadly, we have seen farmers leave the market due to its overhead, including recently the (Full of Life Farm)[<a href="https://www.fulloflifefarm.com/">https://www.fulloflifefarm.com/</a>].
+FoLF is trying to enable these farmers and ranchers to have a better cost model by &ldquo;crowd-sourcing&rdquo; the last part of the distribution to your door.
+If you want great food, just drive or walk a few minutes and pick it up!</p>
+
+<p>See <a href="http://www.meetup.com/FullOfLifeFood/">http://www.meetup.com/FullOfLifeFood/</a> to find out where FoLF is delivering great food to you, and join in with us on a purchase.</p>
+]]></content>
+  </entry>
   
 </feed>
