@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://fulloflifefood.com/sitemap.xml 
+Sitemap: http://fulloflifefood.github.io/sitemap.xml 
