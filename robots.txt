@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://fulloflifefood.github.io/sitemap.xml 
+Sitemap: http://supersonicfox.com/sitemap.xml 
