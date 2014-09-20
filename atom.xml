@@ -4,7 +4,7 @@
   <title><![CDATA[Full of Life Food]]></title>
   <link href="http://fulloflifefood.com/atom.xml" rel="self"/>
   <link href="http://fulloflifefood.com/"/>
-  <updated>2014-09-19T19:29:19-07:00</updated>
+  <updated>2014-09-19T20:32:32-07:00</updated>
   <id>http://fulloflifefood.com/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,5 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Beef and Pork]]></title>
+    <link href="http://fulloflifefood.com/blog/beef-and-pork-products/"/>
+    <updated>2014-09-09T18:17:00-07:00</updated>
+    <id>http://fulloflifefood.com/blog/beef-and-pork-products</id>
+    <content type="html"><![CDATA[<p><img src="http://fulloflifefood.com/images/Folf_Box1_BeefRibSteak.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box2_BeefGround.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box3_PorkChop.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box4_BeefTopLoinNewYork.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box5_PorkBostonButt.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box6_PorkBaconSausage.jpg"/></p>
+
+<p><img src="http://fulloflifefood.com/images/Folf_Box7_BeefChuckEyeAndBrisket.jpg"/></p>
+]]></content>
+  </entry>
   
 </feed>
